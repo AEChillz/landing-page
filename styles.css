@@ -38,3 +38,39 @@ a {
     justify-content: space-between;
     margin: 50px;
 }
+
+.middle-information {
+    padding: 10px;
+  }
+  
+  
+  .image-placeholder {
+      display: flex;
+      align-items: center;
+      margin-right: 200px;
+  }
+  
+  h2 {
+    display: flex;
+    justify-content: center;
+  }
+  .boxes {
+   display: flex;
+   justify-content: center;
+   gap: 100px;
+  
+   
+  }
+  
+  .boxcont {
+    width: 150px;
+    flex-wrap: nowrap;
+  }
+  
+  .box {
+    display: flex;
+    border-style: ridge;
+    border-radius: 15px;
+    border-color: #2882F6;
+    padding: 60px;
+  }
